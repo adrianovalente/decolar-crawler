@@ -14,7 +14,7 @@ function notifyMessage(message) {
   request.post({
     url  : 'https://secret-depths-18813.herokuapp.com/sendDricoAMessage',
     json : {
-      key     : '3u1k3kblaV',
+      key     : '%{INSERT_MY_KEY_HERE}',
       message : message
     }
   })
