@@ -1,0 +1,16 @@
+{
+  "name": "decolar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^2.9.1",
+    "request": "^2.79.0"
+  }
+}
