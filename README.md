@@ -1,4 +1,4 @@
-# DECOLAR.com crawler
+# decolar.com crawler
 
 A simple crawler to get flight prices and notify me when there are cheap tickets available
 
@@ -15,7 +15,7 @@ npm install
 npm run start
 ```
 
-### Too much to do, not enough time
+## Too much to do, not enough time
 
 Yep, there's still too much to be done!
 
@@ -23,10 +23,10 @@ Yep, there's still too much to be done!
 - The current `notifier` sends me a Telegram Message. Ideally the notifier should be `plug-and-play` and notify you using the channel you want, such as SMS, skype, calls, smoke signal or whatever.
 - The current code only checks [decolar.com](decolar.com). It would be awesome to have more sources to search as well.
 
-### Contribuing
+## Contributing
 
-Feel free to open issues, fork and submit pull requests!
+Feel free to [open issues](https://github.com/adrianovalente/decolar-crawler/issues), fork and [submit](https://github.com/adrianovalente/decolar-crawler/pulls) pull requests!
 
-### License
+## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the [MIT License](LICENSE.md).
